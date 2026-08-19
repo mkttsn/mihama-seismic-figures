@@ -1,0 +1,1 @@
+# mihama-seismic-figures
